@@ -191,8 +191,7 @@ nav ul li a:hover::after{
     overflow: hidden;
 }
 .work img{
-    height: 500px;
-    width: 1500px;
+    height: 100%;
     border-radius: 10px;
     display: block;
     transition: transform 0.5s;
