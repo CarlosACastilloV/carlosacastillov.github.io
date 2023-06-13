@@ -192,6 +192,7 @@ nav ul li a:hover::after{
 }
 .work img{
     height: 300px;
+    width: 300px;
     border-radius: 10px;
     display: block;
     transition: transform 0.5s;
